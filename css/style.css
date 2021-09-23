@@ -1,0 +1,21 @@
+.obt{
+    float: right;
+}
+
+.rom{
+    background-color: greenyellow;
+}
+
+.spic{
+    position: relative;
+    text-align: center;
+    margin-right: 60px;
+    top: 25px;
+    float: right;
+
+}
+
+li:before{
+    content: "|";
+    color:  black;
+}
